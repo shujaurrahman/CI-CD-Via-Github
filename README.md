@@ -5,14 +5,14 @@
 This repository demonstrates setting up a Continuous Integration and Continuous Deployment (CI/CD) pipeline using GitHub Actions to deploy code to an InfinityFree server via FTP. With CI/CD, every change pushed to the main branch is automatically deployed to your server, making it faster and more efficient to keep your website up-to-date.
 
 ## Table of Contents
-1. [Introduction to CI/CD and GitHub Actions](#introduction-to-cicd-and-github-actions)
-2. [How the Workflow Works](#how-the-workflow-works)
-3. [Setting Up InfinityFree for Deployment](#setting-up-infinityfree-for-deployment)
-4. [Creating the GitHub Actions Workflow](#creating-the-github-actions-workflow)
-5. [Configuring GitHub Secrets for Secure FTP](#configuring-github-secrets-for-secure-ftp)
-6. [Triggering the Workflow](#triggering-the-workflow)
-7. [Verifying the Deployment](#verifying-the-deployment)
-8. [Troubleshooting Common Issues](#troubleshooting-common-issues)
+1. Introduction to CI/CD and GitHub Actions
+2. How the Workflow Works
+3. Setting Up InfinityFree for Deployment
+4. Creating the GitHub Actions Workflow
+5. Configuring GitHub Secrets for Secure FTP
+6. Triggering the Workflow
+7. Verifying the Deployment
+8. Troubleshooting Common Issues
 
 
 
